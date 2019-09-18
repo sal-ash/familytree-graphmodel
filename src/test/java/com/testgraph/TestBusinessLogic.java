@@ -1,4 +1,4 @@
-package com.wundermancommerce.interviewtests.graph;
+package com.testgraph;
 
 
 import static org.junit.Assert.assertEquals;
@@ -18,6 +18,9 @@ import org.junit.Test;
 
 import com.google.common.graph.MutableValueGraph;
 import com.google.common.graph.ValueGraphBuilder;
+import com.graph.BusinessLogic;
+import com.graph.Person;
+import com.graph.Relation;
 
 
 public class TestBusinessLogic{

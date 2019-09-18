@@ -1,4 +1,4 @@
-package com.wundermancommerce.interviewtests.graph;
+package com.graph;
 
 
 public class Relation {
